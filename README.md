@@ -1,4 +1,5 @@
 NovaShop Akıllı Destek Asistanı
+
 Selamlar. Bu projeyi, standart chatbotlardan ziyade, arka planda gerçekten bir iş akışı yürüten bir yapay zeka sistemi kurmak için geliştirdim.
 Temelde bir e-ticaret sitesi (hayali NovaShop) için müşteri hizmetleri asistanı. Asistan sadece genel geçer laflar üretmiyor; eğer kullanıcı iade veya kargo kurallarını sorarsa gidip şirketin PDF'lerini okuyor (RAG), eğer "kargom nerede" diye spesifik bir sipariş sorarsa gidip veritabanına sorgu atıyor (Tool Calling).
 
